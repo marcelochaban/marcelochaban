@@ -4,7 +4,7 @@ Hi ! I am Marcelo Chaban  , I am  an Argentinean computer enthusiast and i am cu
 
 ## I invite you to see my social networks 
 * [Linkedin](https://www.linkedin.com/in/marcelochaban/ "My linkedin!!")
-* [Twitter](https://www.linkedin.com/in/marcelochaban/ "My Twitter!!")
+* [Twitter](https://twitter.com/Chabancito "My Twitter!!")
 ## And see my proyects !!
 * [my daily practices](https://github.com/marcelochaban/Practicas "check them!!")
 
